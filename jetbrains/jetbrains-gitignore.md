@@ -4,7 +4,7 @@
 
 # JetBrains **`.gitignore`** Files
 
-This directory contains two sub-directories **`jetbrains/projectSpecific`** and **`jetbrains/global`**
+This directory contains two subdirectories **`jetbrains/projectSpecific`** and **`jetbrains/global`**
 
 
 
@@ -20,4 +20,4 @@ Information on global **`.gitignore`** files used for all ***JetBrains*** editor
 
 ## Current Policy
 
-Currently I am deploying the **`.gitignore`** file in the project **`./idea`** directory based the **JetBrains** guidance cited above. 
+Currently, I am deploying the **`.gitignore`** file in the project **`./idea`** directory based the **JetBrains** guidance cited above.
